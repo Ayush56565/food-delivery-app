@@ -5,7 +5,7 @@
 <ul>
 <li>A food ordering app, built with React Native and Expo</li>
 <li>Authentication and database with Supabase.</li>
-<li>State-management with Redux.</li>
+<li>App wide state-management with Redux.</li>
 </ul>
 
 
@@ -14,10 +14,18 @@
 ## Built With
 
 
-* <a href="">React Native</a>
-* <a href="">Expo</a>
-* <a href="">Supabase</a>
-* <a href="">Redux</a>
+* <a href="https://reactnative.dev/">React Native</a>
+* <a href="https://expo.dev/">Expo</a>
+* <a href="https://supabase.com/">Supabase</a>
+* <a href="https://redux.js.org/">Redux</a>
+
+## Preview
+
+Watch the product demo on:
+
+<a href="https://youtu.be/4BDud6OVPOw">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=black""/>
+  </a> 	
 
 
 
